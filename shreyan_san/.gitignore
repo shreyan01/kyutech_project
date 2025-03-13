@@ -1,3 +1,5 @@
-.venv*
+venv/
 coords_Non.csv
-
+coords_NonV2.csv
+body_language_lgbm.pkl
+shreyan_san/
