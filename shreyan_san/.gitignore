@@ -5,3 +5,5 @@ body_language_lgbm.pkl
 shreyan_san/
 collected_data.csv
 .~lock.collected_data.csv#
+collected_dataV2.csv
+.~lock.collected_dataV2.csv#
