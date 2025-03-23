@@ -7,3 +7,6 @@ collected_data.csv
 .~lock.collected_data.csv#
 collected_dataV2.csv
 .~lock.collected_dataV2.csv#
+screenshots/
+body_language_xgbc.pkl
+body_language_rsc.pkl
